@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(107, 146, 230);
+}
+
+div {
+    align-content: center;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(125, 253, 194);
+}
